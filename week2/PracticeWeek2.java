@@ -11,7 +11,7 @@ public class PracticeWeek2 {
 		int    num    = 3000;
 	
 		//Declaring Variables
-		String name1;
+		String name1; 
 		String name2;
 		String name3;
 		
